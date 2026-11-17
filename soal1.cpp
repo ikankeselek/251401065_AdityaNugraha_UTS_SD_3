@@ -42,6 +42,6 @@ int main(){
                 banyak++;
         }
         rata = jumlah/banyak;
-        cout << rata " ";
+        cout << rata << " ";
 }
 }
